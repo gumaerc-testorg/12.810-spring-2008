@@ -4,8 +4,13 @@ description: 'Lecture notes on Chapter 7: Symmetric Circulation Models. Topics i
   historical review, Held and Hou calculations, Hide?s theorem and its application,
   simplified calculations, comparison of simple and numerical results, and asymmetry
   about the equator.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-810-dynamics-of-the-atmosphere-spring-2008/e41ea4a3f5139a3238b30deaab0206c0_chapter_7.pdf
+file: /media/courses/12-810-dynamics-of-the-atmosphere-spring-2008/e41ea4a3f5139a3238b30deaab0206c0_chapter_7.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: chapter_7.pdf
 uid: e41ea4a3-f513-9a32-38b3-0deaab0206c0

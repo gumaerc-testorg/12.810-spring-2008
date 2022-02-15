@@ -3,8 +3,13 @@ content_type: resource
 description: 'Lecture notes on Chapter 5: Observed Atmospheric Structures. Topics
   include radiosonde station distribution, daily and monthly maps, zonal means, and
   short period phenomena.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-810-dynamics-of-the-atmosphere-spring-2008/2e541bea775269022a32d183214febe0_chapter_5.pdf
+file: /media/courses/12-810-dynamics-of-the-atmosphere-spring-2008/2e541bea775269022a32d183214febe0_chapter_5.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: chapter_5.pdf
 uid: 2e541bea-7752-6902-2a32-d183214febe0

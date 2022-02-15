@@ -7,8 +7,13 @@ description: 'Lecture notes on Chapter 13: The Generation of Eddies by Instabili
   disturbances, baroclinic and barotropic instability, the Kelvin-Orr mechanism, two-level
   baroclinic model, baroclinic instability and climate, geometric stabilization, energetics
   of meteorological disturbances, and available potential energy.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-810-dynamics-of-the-atmosphere-spring-2008/cadd481e5c076b54745ada3386bc0e98_chapter_13.pdf
+file: /media/courses/12-810-dynamics-of-the-atmosphere-spring-2008/cadd481e5c076b54745ada3386bc0e98_chapter_13.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: chapter_13.pdf
 uid: cadd481e-5c07-6b54-745a-da3386bc0e98
