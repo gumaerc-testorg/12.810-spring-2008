@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture notes on Chapter 1: Introductory Remarks.'
-file: /media/courses/12-810-dynamics-of-the-atmosphere-spring-2008/98dffb6b886e4adb3350048f9e5408ac_chapter_1.pdf
+file: /courses/12-810-dynamics-of-the-atmosphere-spring-2008/98dffb6b886e4adb3350048f9e5408ac_chapter_1.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -13,3 +13,5 @@ resourcetype: Document
 title: chapter_1.pdf
 uid: 98dffb6b-886e-4adb-3350-048f9e5408ac
 ---
+Lecture notes on Chapter 1: Introductory Remarks.
+
