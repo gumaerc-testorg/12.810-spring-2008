@@ -5,6 +5,7 @@ file: /courses/12-810-dynamics-of-the-atmosphere-spring-2008/98dffb6b886e4adb335
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: chapter_1.pdf
 uid: 98dffb6b-886e-4adb-3350-048f9e5408ac
 ---
 Lecture notes on Chapter 1: Introductory Remarks.
-

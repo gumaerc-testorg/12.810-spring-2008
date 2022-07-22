@@ -5,6 +5,7 @@ file: /courses/12-810-dynamics-of-the-atmosphere-spring-2008/52ad6fc3efcf862db85
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: chapter_2.pdf
 uid: 52ad6fc3-efcf-862d-b853-3ae52db01174
 ---
 Lecture notes on Chapter 2: Simple Energy Balance Climate Models.
-

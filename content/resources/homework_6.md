@@ -5,6 +5,7 @@ file: /courses/12-810-dynamics-of-the-atmosphere-spring-2008/6fb748787f694841d52
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: homework_6.pdf
 uid: 6fb74878-7f69-4841-d527-6101864ff690
 ---
 Homework assignment on Dynamics in Atmospheric Physics.
-

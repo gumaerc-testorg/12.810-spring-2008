@@ -5,6 +5,7 @@ file: /courses/12-810-dynamics-of-the-atmosphere-spring-2008/f649f503f7e387d80de
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: preface.pdf
 uid: f649f503-f7e3-87d8-0de4-efe1b6a75ecf
 ---
 Introductory comments from the professor about the lecture notes.
-

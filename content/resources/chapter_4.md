@@ -7,6 +7,7 @@ file: /courses/12-810-dynamics-of-the-atmosphere-spring-2008/a55792047a5b8091d7a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: chapter_4.pdf
 uid: a5579204-7a5b-8091-d7ae-a0144ed878f0
 ---
 Lecture notes on Chapter 4: Statics of a Rotating System. Topics include geostrophy and hydrostaticity, scale height and thickness, and thermal wind and pressure coordinates.
-

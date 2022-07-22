@@ -5,6 +5,7 @@ file: /courses/12-810-dynamics-of-the-atmosphere-spring-2008/2d500c3114bf7bce6ce
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: postscript.pdf
 uid: 2d500c31-14bf-7bce-6ce3-c79a6d731859
 ---
 Final comments from the professor at the end of the course text.
-
