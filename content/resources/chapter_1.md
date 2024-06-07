@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Lecture notes on Chapter 1: Introductory Remarks.'
 file: /courses/12-810-dynamics-of-the-atmosphere-spring-2008/98dffb6b886e4adb3350048f9e5408ac_chapter_1.pdf
+file_size: 78696
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
