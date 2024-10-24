@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Homework assignment on generation of eddies by instability.
-file: /courses/12-810-dynamics-of-the-atmosphere-spring-2008/5d339f8c62667ac53d6dea71b1fec40c_homework_12.pdf
+file: /ol-ocw-studio-app/courses/12-810-dynamics-of-the-atmosphere-spring-2008/5d339f8c62667ac53d6dea71b1fec40c_homework_12.pdf
 file_size: 95412
 file_type: application/pdf
 learning_resource_types:
