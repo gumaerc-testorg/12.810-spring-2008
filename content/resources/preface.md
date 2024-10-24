@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Introductory comments from the professor about the lecture notes.
-file: /courses/12-810-dynamics-of-the-atmosphere-spring-2008/f649f503f7e387d80de4efe1b6a75ecf_preface.pdf
+file: /ol-ocw-studio-app/courses/12-810-dynamics-of-the-atmosphere-spring-2008/f649f503f7e387d80de4efe1b6a75ecf_preface.pdf
 file_size: 52104
 file_type: application/pdf
 learning_resource_types:
