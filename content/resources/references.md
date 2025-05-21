@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A complete list of references for the course lecture notes.
-file: /ol-ocw-studio-app/courses/12-810-dynamics-of-the-atmosphere-spring-2008/39e6bd1fb7632733e6c689e3b46a11b9_references.pdf
+file: /courses/12-810-dynamics-of-the-atmosphere-spring-2008/39e6bd1fb7632733e6c689e3b46a11b9_references.pdf
 file_size: 82807
 file_type: application/pdf
 learning_resource_types:
