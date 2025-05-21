@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Homework assignment on Dynamics in Atmospheric Physics.
-file: /ol-ocw-studio-app/courses/12-810-dynamics-of-the-atmosphere-spring-2008/eecef66ccfaabe79f9efa99f06ec8cc1_homework_11.pdf
+file: /courses/12-810-dynamics-of-the-atmosphere-spring-2008/eecef66ccfaabe79f9efa99f06ec8cc1_homework_11.pdf
 file_size: 80048
 file_type: application/pdf
 learning_resource_types:

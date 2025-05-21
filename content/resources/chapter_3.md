@@ -3,7 +3,7 @@ content_type: resource
 description: 'Lecture notes on Chapter 3: Effect of Transport on Composition. Topics
   include general considerations, equations of continuity, and the 4?box transport
   model.'
-file: /ol-ocw-studio-app/courses/12-810-dynamics-of-the-atmosphere-spring-2008/150705fe5687cdbf16e8dfe3f82329ed_chapter_3.pdf
+file: /courses/12-810-dynamics-of-the-atmosphere-spring-2008/150705fe5687cdbf16e8dfe3f82329ed_chapter_3.pdf
 file_size: 237233
 file_type: application/pdf
 learning_resource_types:
