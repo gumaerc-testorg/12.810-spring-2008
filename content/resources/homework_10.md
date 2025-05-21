@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Homework assignment on Rossby waves.
-file: /ol-ocw-studio-app/courses/12-810-dynamics-of-the-atmosphere-spring-2008/9b3a7cfedae1d98645c750865268d1be_homework_10.pdf
+file: /courses/12-810-dynamics-of-the-atmosphere-spring-2008/9b3a7cfedae1d98645c750865268d1be_homework_10.pdf
 file_size: 72100
 file_type: application/pdf
 learning_resource_types:

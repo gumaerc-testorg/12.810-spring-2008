@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Homework assignment on simple energy balance climate models.
-file: /ol-ocw-studio-app/courses/12-810-dynamics-of-the-atmosphere-spring-2008/e45dbba87e9a9a9d93251635b945bb93_homework_1.pdf
+file: /courses/12-810-dynamics-of-the-atmosphere-spring-2008/e45dbba87e9a9a9d93251635b945bb93_homework_1.pdf
 file_size: 60300
 file_type: application/pdf
 learning_resource_types:
