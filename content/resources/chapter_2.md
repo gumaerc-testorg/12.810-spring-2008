@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture notes on Chapter 2: Simple Energy Balance Climate Models.'
-file: /courses/12-810-dynamics-of-the-atmosphere-spring-2008/52ad6fc3efcf862db8533ae52db01174_chapter_2.pdf
+file: /ol-ocw-studio-app/courses/12-810-dynamics-of-the-atmosphere-spring-2008/52ad6fc3efcf862db8533ae52db01174_chapter_2.pdf
 file_size: 206697
 file_type: application/pdf
 learning_resource_types:
