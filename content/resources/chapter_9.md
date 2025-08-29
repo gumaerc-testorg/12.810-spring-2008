@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Lecture notes on Chapter 9: Atmospheric Tides. Topics include history
   and the ?scientific method?, observations, and theory.'
-file: /courses/12-810-dynamics-of-the-atmosphere-spring-2008/9c695433ff2a222bdcf39ddc885f2e91_chapter_9.pdf
+file: /ol-ocw-studio-app/courses/12-810-dynamics-of-the-atmosphere-spring-2008/9c695433ff2a222bdcf39ddc885f2e91_chapter_9.pdf
 file_size: 609087
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Table of contents for the course lecture notes.
-file: /courses/12-810-dynamics-of-the-atmosphere-spring-2008/52070caf3bd11daf5cd9104e43b81499_table_of_contnt.pdf
+file: /ol-ocw-studio-app/courses/12-810-dynamics-of-the-atmosphere-spring-2008/52070caf3bd11daf5cd9104e43b81499_table_of_contnt.pdf
 file_size: 101078
 file_type: application/pdf
 learning_resource_types:
